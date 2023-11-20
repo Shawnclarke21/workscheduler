@@ -19,3 +19,7 @@ link to github
 https://github.com/Shawnclarke21/workscheduler/edit/main/README.md
 
 link to website
+https://shawnclarke21.github.io/workscheduler/
+
+![Screenshot 2023-11-20 003449](https://github.com/Shawnclarke21/workscheduler/assets/139307719/3191e21e-9ce0-410e-94ce-d8f0843f682f)
+![Screenshot 2023-11-20 003515](https://github.com/Shawnclarke21/workscheduler/assets/139307719/4e330be7-6a76-40ea-b3cb-3a0a75edecac)
