@@ -6,7 +6,7 @@ const local = {};
 dayjs.locale(local);
 
 $(function () {
-  const hour = dayjs().format('dd/MM/YYYY/H');
+  const hour = dayjs().format('H');
 
   function saveText() {
       $('.saveBtn').on('click', function () {
@@ -46,10 +46,14 @@ $(function () {
   });
 
   function updatetime(){
-    
+const dateEl = $('#date')
+const currentDate = dayjs().format('dddd-MMMM-YYYY-H-mm')
+dateEl.text(currentDate)
   }
 
   saveText();
   hourcolor();
   refresh();
+
+  setInterval(updatetime, 1000)
 });
