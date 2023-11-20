@@ -12,7 +12,7 @@ when starting this project i was at a lose for how to start or where to start at
 # How to install and run the project
 to install this project all you have to do is access the website from your browser and it can be ran from there just impliment the data you need to store inside of the time blocks and it will be stored after hitting the save button
 
-#credits 
+# credits 
 when writing this program it was me Shawn Clarke, along with tutoring outside of class with some of my brothers friends i also follwed some tutorials on youtube that helped with storing local storage using third party apis specifically dayjs and tutrotials for time blocks.
 
 link to github
